@@ -1,5 +1,7 @@
 {
-  "name": "Angular2Template",
+  "name": "",
+  "author": "",
+  "description": "",
   "version": "1.0.0",
   "scripts": {
     "start": "npm run tsc:w",
@@ -20,17 +22,19 @@
     "zone.js": "0.5.15"
   },
   "devDependencies": {
-    "bower-files": "^3.11.3",
-    "browser-sync": "^2.11.1",
+    "bower-files": "^3.13.3",
+    "browser-sync": "^2.14.0",
     "concurrently": "^2.0.0",
-    "del": "^2.2.0",
+    "del": "^2.2.1",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.6.0",
-    "gulp-sass": "^2.2.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sass": "^2.3.2",
     "gulp-shell": "^0.5.2",
     "gulp-sourcemaps": "^1.6.0",
-    "gulp-uglify": "^1.5.3",
+    "gulp-uglify": "^2.0.0",
     "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2",
     "lite-server": "^2.1.0",
     "typescript": "^1.8.2",
     "typings": "^0.6.8"
