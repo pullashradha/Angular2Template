@@ -54,7 +54,7 @@ gulp.task ("cssBower", ["cssBowerClean"], function() {
 
 gulp.task ("bower", ["jsBower", "cssBower"]);
 
-//JShint
+//JSHint
 gulp.task ("jshint", function() {
   return gulp.src (["js/*.js"])
     .pipe (jshint())
