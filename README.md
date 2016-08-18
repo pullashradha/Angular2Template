@@ -1,4 +1,4 @@
-# (Project Name) Webpage
+# (Project Name)
 
 #### (Week Name) Independent Project for Epicodus, 00/00/2016
 
@@ -28,13 +28,13 @@ No known bugs.
 
 The program should... | Example Input | Example Output
 ----- | ----- | -----
-Spec 1 | Example Input: | Example Output:
+--- | --- | ---
 
 ## Future Features
 
 HTML | CSS | JavaScript
 ----- | ----- | -----
-Example Feature 1 | Example Feature 1 | Example Feature 1
+--- | --- | ---
 
 ## Support and Contact Details
 
