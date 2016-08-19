@@ -32,7 +32,7 @@ The program should... | Example Input | Example Output
 
 ## Future Features
 
-HTML | CSS | JavaScript
+HTML | CSS | Angular2
 ----- | ----- | -----
 --- | --- | ---
 
@@ -45,8 +45,6 @@ Contact Epicodus for support in running this program.
 * HTML
 * CSS
 * Bootstrap
-* jQuery
-* JavaScript
 * Typescript
 * Angular2
 
